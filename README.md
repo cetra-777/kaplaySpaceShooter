@@ -1,4 +1,18 @@
-# Folder structure
+# Play On Itch
+TODO: Add itch.io link
+
+# Description
+This is the companion source code for the YouTube based Kaplay coding tutorial by AutMouse Labs. To play with this code yourself simply download the project and open it in a text editor.
+
+# Links
+Kaplay Documentation
+https://kaplayjs.com/reference/
+
+JFXR Sound FX Maker
+https://jfxr.frozenfractal.com/#
+
+1BitDragon Music Composition Software
+https://1bitdragon.com/
 
 - `src` - source code for your kaplay project
 - `www` - distribution folder, contains your index.html, built js bundle and static assets
